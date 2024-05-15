@@ -7,5 +7,5 @@ def odwrot(array):
         return t+[s]
       
         
-lis=[1,2,3,4,5,44362,111,1]
+lis=[1,2,3,4,5,44362,111,1,80085]
 print(odwrot(lis))
